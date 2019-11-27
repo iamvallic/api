@@ -1,0 +1,368 @@
+{
+  "authors": [
+    {
+      "id":1,
+      "name": "Никита",
+    "order_price": 10500,
+      "photo": "https://bezaza.ru/assets/1.jpg",
+      "social_instagram": "@nic1",
+      "status": 1,
+      "category": [
+    "Звезды Youtube",
+    "Звезды Instagram",
+    "Блоггеры"
+    ]
+    },{
+      "id":2,
+      "name": "Антон",
+    "order_price": 1050,
+      "photo": "https://bezaza.ru/assets/2.jpg",
+      "social_instagram": "@ant1",
+      "status": 1,
+      "category": [
+    "Музыкант",
+    "Певец"
+    ]
+    },{
+      "id":3,
+      "name": "Иван Ургант",
+    "order_price": 105000,
+      "photo": "https://bezaza.ru/assets/3.jpg",
+      "social_instagram": "@ug",
+      "status": 1,
+      "category": [
+    "Актеры",
+    "Звезда телевидения",
+    "Комики"
+    ]
+    },{
+      "id":4,
+      "name": "Филип Киркоров",
+    "order_price": 500,
+      "photo": "https://bezaza.ru/assets/4.jpg",
+      "social_instagram": "@kirkorchik",
+      "status": 1,
+      "category": [
+    "Певец",
+    "Звезды Instagram",
+    "Звезда телевидения"
+    ]
+    },{
+      "id":5,
+      "name": "Дюша Метелкин",
+    "order_price": 6500,
+      "photo": "https://bezaza.ru/assets/5.jpg",
+      "social_instagram": "@dushausbofficial",
+      "status": 1,
+      "category": [
+    "Музыкант",
+    "Певец"
+    ]
+    },{
+      "id":6,
+      "name": "Шаляпин",
+    "order_price": 900,
+      "photo": "https://bezaza.ru/assets/6.jpg",
+      "social_instagram": "@shalapin",
+      "status": 1,
+      "category": [
+    "Актеры",
+    "Комики"
+    ]
+    },{
+      "id":7,
+      "name": "Антон Youtube",
+    "order_price": 1000,
+      "photo": "https://bezaza.ru/assets/7.jpg",
+      "social_instagram": "@ololo",
+      "status": 1,
+      "category": [
+    "Звезды Youtube",
+    "Звезды Instagram",
+    "Блоггеры"
+    ]
+    },{
+      "id":8,
+      "name": "Игорь",
+    "order_price": 10500,
+      "photo": "https://bezaza.ru/assets/8.jpg",
+      "social_instagram": "@igor",
+      "status": 1,
+      "category": [
+    "Музыкант",
+    "Певец"
+    ]
+    },{
+      "id":9,
+      "name": "Александр Охуенный певец",
+    "order_price": 99000,
+      "photo": "https://bezaza.ru/assets/9.jpg",
+      "social_instagram": "@ant1",
+      "status": 1,
+      "category": [
+    "Музыкант",
+    "Певец"
+    ]
+    },{
+      "id":10,
+      "name": "Алсу",
+    "order_price": 500,
+      "photo": "https://bezaza.ru/assets/10.jpg",
+      "social_instagram": "@alsu",
+      "status": 1,
+      "category": [
+    "Музыкант",
+    "Певец"
+    ]
+    },{
+      "id":11,
+      "name": "Билан",
+    "order_price": 500,
+      "photo": "https://bezaza.ru/assets/11.jpg",
+      "social_instagram": "@beeline",
+      "status": 1,
+      "category": [
+    "Звезды Youtube",
+    "Звезды Instagram",
+    "Блоггеры"
+    ]
+    },{
+      "id":12,
+      "name": "Music010101",
+    "order_price": 10500,
+      "photo": "https://bezaza.ru/assets/12.jpg",
+      "social_instagram": "@music",
+      "status": 1,
+      "category": [
+    "Музыкант",
+    "Певец"
+    ]
+    },{
+      "id":13,
+      "name": "На на",
+    "order_price": 10500,
+      "photo": "https://bezaza.ru/assets/13.jpg",
+      "social_instagram": "@nana121212",
+      "status": 1,
+      "category": [
+    "Звезды Youtube",
+    "Звезды Instagram",
+    "Блоггеры"
+    ]
+    },{
+      "id":14,
+      "name": "Пертокоменц",
+    "order_price": 9900,
+      "photo": "https://bezaza.ru/assets/14.jpg",
+      "social_instagram": "@mus1245gdfsdfa",
+      "status": 1,
+      "category": [
+    "Музыкант",
+    "Певец"
+    ]
+    },{
+      "id":15,
+      "name": "Greta",
+    "order_price": 950,
+      "photo": "https://bezaza.ru/assets/15.jpg",
+      "social_instagram": "@greta",
+      "status": 1,
+      "category": [
+    "Музыкант",
+    "Певец"
+    ]
+    },{
+      "id":16,
+      "name": "Кипелов",
+    "order_price": 10500,
+      "photo": "https://bezaza.ru/assets/16.jpg",
+      "social_instagram": "@kipelov",
+      "status": 1,
+      "category": [
+    "Музыкант",
+    "Певец"
+    ]
+    },{
+      "id":17,
+      "name": "Макс 100500",
+    "order_price": 100500,
+      "photo": "https://bezaza.ru/assets/17.jpg",
+      "social_instagram": "@100500",
+      "status": 1,
+      "category": [
+    "Звезды Youtube",
+    "Звезды Instagram",
+    "Блоггеры"
+    ]
+    },{
+      "id":18,
+      "name": "Розембаум",
+    "order_price": 25000,
+      "photo": "https://bezaza.ru/assets/18.jpg",
+      "social_instagram": "@rozembaum",
+      "status": 1,
+      "category": [
+    "Музыкант",
+    "Певец"
+    ]
+    },{
+      "id":19,
+      "name": "Юрий Шевчук",
+    "order_price": 2500,
+      "photo": "https://bezaza.ru/assets/19.jpg",
+      "social_instagram": "@chukchuk",
+      "status": 1,
+      "category": [
+    "Музыкант",
+    "Певец"
+    ]
+    },{
+      "id":20,
+      "name": "Lola aloha",
+    "order_price": 500,
+      "photo": "https://bezaza.ru/assets/20.jpg",
+      "social_instagram": "@aloha2445645",
+      "status": 1,
+      "category": [
+    "Звезды Youtube",
+    "Звезды Instagram",
+    "Блоггеры"
+    ]
+    },{
+      "id":21,
+      "name": "Юрий Хой",
+    "order_price": 9900,
+      "photo": "https://bezaza.ru/assets/21.jpg",
+      "social_instagram": "@sektorgaza",
+      "status": 0,
+      "category": [
+    "Музыкант",
+    "Певец"
+    ]
+    },{
+      "id":22,
+      "name": "Макс Покровский",
+    "order_price": 4500,
+      "photo": "https://bezaza.ru/assets/22.jpg",
+      "social_instagram": "@maxpokrov",
+      "status": 1,
+      "category": [
+    "Музыкант",
+    "Певец"
+    ]
+    },{
+      "id":23,
+      "name": "Rimus",
+    "order_price": 500,
+      "photo": "https://bezaza.ru/assets/23.jpg",
+      "social_instagram": "@rumuss1",
+      "status": 1,
+      "category": [
+    "Звезды Youtube",
+    "Звезды Instagram"
+    ]      
+    },{
+      "id":24,
+      "name": "Last one",
+    "order_price": 9500,
+      "photo": "https://bezaza.ru/assets/24.jpg",
+      "social_instagram": "@lastone",
+      "status": 1,
+      "category": [
+    "Музыкант",
+    "Певец"
+    ]
+  },{
+      "id":25,
+      "name": "ROijj",
+    "order_price": 1500,
+      "photo": "https://bezaza.ru/assets/25.jpg",
+      "social_instagram": "@r55s1",
+      "status": 1,
+      "category": [
+    "Звезды Youtube"
+    ]
+    },{
+    "id":26,
+      "name": "AK47",
+    "order_price": 9500,
+      "photo": "https://bezaza.ru/assets/26.jpg",
+      "social_instagram": "@ak47",
+      "status": 1,
+      "category": [
+    "Звезды Instagram"
+    ]
+    },{
+    "id":27,
+      "name": "Trololo",
+    "order_price": 6500,
+      "photo": "https://bezaza.ru/assets/27.jpg",
+      "social_instagram": "@trololo",
+      "status": 1,
+      "category": [
+    "Звезды Youtube"
+    ]
+    },{
+    "id":28,
+      "name": "God",
+    "order_price": 99999,
+      "photo": "https://bezaza.ru/assets/28.jpg",
+      "social_instagram": "@god99",
+      "status": 1,
+      "category": [
+    "Звезды Youtube",
+    "Звезды Instagram"
+    ]
+    }],
+    
+  "get-categoty-list": [
+    {
+    "id": 1,
+    "category" : "Музыкант"
+    },{
+    "id": 2,
+    "category" : "Певец"
+    },{
+    "id": 3,
+    "category" : "Звезды Youtube"
+    },{
+    "id": 4,
+    "category" : "Звезды Instagram"
+    },{
+    "id": 5,
+    "category" : "Блоггеры"
+    },{
+    "id": 6,
+    "category" : "Актеры"
+    },{
+    "id": 7,
+    "category" : "Звезда телевидения"
+    },{
+    "id": 8,
+    "category" : "Комики"
+    }
+  ],
+  "get-list-by-category-id": [
+  {
+    "id" : 1, 
+    "author_list":   [
+      24,22,21,19,18,16,15,14,12,10,9,8,5,2
+    ]
+  },{
+    "id" : 2, 
+    "author_list":   [
+      24,22,21,19,18,16,15,14,12,10,9,8,5,4,2
+    ]
+  },{
+    "id" : 3, 
+    "author_list":   [
+      28,27,25,23,20,17,13,11,7,1
+    ]
+  },{
+    "id" : 4, 
+    "author_list":   [
+      28,26,23,20,17,13,11,7,4,1
+    ]
+  }
+  ]
+}
