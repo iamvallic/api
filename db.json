@@ -328,18 +328,6 @@
     },{
     "id": 4,
     "category" : "Звезды Instagram"
-    },{
-    "id": 5,
-    "category" : "Блоггеры"
-    },{
-    "id": 6,
-    "category" : "Актеры"
-    },{
-    "id": 7,
-    "category" : "Звезда телевидения"
-    },{
-    "id": 8,
-    "category" : "Комики"
     }
   ],
   "get-list-by-category-id": [
