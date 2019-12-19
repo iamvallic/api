@@ -10,7 +10,7 @@
       "mainVideo": "https://bezaza.ru/assets/1.mp4",
       "category": [3,4,5],
       "videoList": [1,2,3,4],
-      "star": true
+      "star": "true"
     },{
       "id":2,
       "name": "Антон",
@@ -19,7 +19,7 @@
       "photo": "https://bezaza.ru/assets/2.jpg",
       "status": 1,
       "category": [1,2],
-      "star": true
+      "star": "true"
     },{
       "id":3,
       "name": "Иван Ургант",
@@ -28,7 +28,7 @@
       "photo": "https://bezaza.ru/assets/3.jpg",
       "status": 1,
       "category": [6,7,8],
-      "star": true
+      "star": "true"
     },{
       "id":4,
       "name": "Филип Киркоров",
@@ -37,7 +37,7 @@
       "photo": "https://bezaza.ru/assets/4.jpg",
       "status": 1,
       "category": [2,4,7],
-      "star": true
+      "star": "true"
     },{
       "id":5,
       "name": "Дюша Метелкин",
@@ -46,7 +46,7 @@
       "photo": "https://bezaza.ru/assets/5.jpg",
       "status": 1,
       "category": [1,2],
-      "star": true
+      "star": "true"
     },{
       "id":6,
       "name": "Шаляпин",
@@ -55,7 +55,7 @@
       "photo": "https://bezaza.ru/assets/6.jpg",
       "status": 1,
       "category": [6,8],
-      "star": true
+      "star": "true"
     },{
       "id":7,
       "name": "Антон Youtube",
@@ -64,7 +64,7 @@
       "photo": "https://bezaza.ru/assets/7.jpg",
       "status": 1,
       "category": [3,4,5],
-      "star": true
+      "star": "true"
     },{
       "id":8,
       "name": "Игорь",
@@ -73,7 +73,7 @@
       "photo": "https://bezaza.ru/assets/8.jpg",
       "status": 1,
       "category": [1,2],
-      "star": true
+      "star": "true"
     },{
       "id":9,
       "name": "Александр Охуенный певец",
@@ -82,7 +82,7 @@
       "photo": "https://bezaza.ru/assets/9.jpg",
       "status": 1,
       "category": [1,2],
-      "star": true
+      "star": "true"
     },{
       "id":10,
       "name": "Алсу",
@@ -91,7 +91,7 @@
       "photo": "https://bezaza.ru/assets/10.jpg",
       "status": 1,
       "category": [1,2],
-      "star": false
+      "star": "false"
     },{
       "id":11,
       "name": "Билан",
@@ -100,7 +100,7 @@
       "photo": "https://bezaza.ru/assets/11.jpg",
       "status": 1,
       "category": [3,4,5],
-      "star": false
+      "star": "false"
     },{
       "id":12,
       "name": "Music010101",
@@ -109,7 +109,7 @@
       "photo": "https://bezaza.ru/assets/12.jpg",
       "status": 1,
       "category": [1,2],
-      "star": false
+      "star": "false"
     },{
       "id":13,
       "name": "На на",
@@ -118,7 +118,7 @@
       "photo": "https://bezaza.ru/assets/13.jpg",
       "status": 1,
       "category": [3,4,5],
-      "star": false
+      "star": "false"
     },{
       "id":14,
       "name": "Пертокоменц",
@@ -127,7 +127,7 @@
       "photo": "https://bezaza.ru/assets/14.jpg",
       "status": 1,
       "category": [1,2],
-      "star": false
+      "star": "false"
     },{
       "id":15,
       "name": "Greta",
@@ -136,7 +136,7 @@
       "photo": "https://bezaza.ru/assets/15.jpg",
       "status": 1,
       "category": [1,2],
-      "star": false
+      "star": "false"
     },{
       "id":16,
       "name": "Кипелов",
@@ -145,7 +145,7 @@
       "photo": "https://bezaza.ru/assets/16.jpg",
       "status": 1,
       "category": [1,2],
-      "star": false
+      "star": "false"
     },{
       "id":17,
       "name": "Макс 100500",
@@ -154,7 +154,7 @@
       "status": 1,
       "photo": "https://bezaza.ru/assets/17.jpg",
       "category": [3,4,5],
-      "star": false
+      "star": "false"
     },{
       "id":18,
       "name": "Розембаум",
@@ -163,7 +163,7 @@
       "photo": "https://bezaza.ru/assets/18.jpg",
       "status": 1,
       "category": [1,2],
-      "star": false
+      "star": "false"
     },{
       "id":19,
       "name": "Юрий Шевчук",
@@ -172,7 +172,7 @@
       "photo": "https://bezaza.ru/assets/19.jpg",
       "status": 1,
       "category": [1,2],
-      "star": false
+      "star": "false"
     },{
       "id":20,
       "name": "Lola aloha",
@@ -181,7 +181,7 @@
       "photo": "https://bezaza.ru/assets/20.jpg",
       "status": 1,
       "category": [3,4,5],
-      "star": false
+      "star": "false"
     },{
       "id":21,
       "name": "Юрий Хой",
@@ -190,7 +190,7 @@
       "photo": "https://bezaza.ru/assets/21.jpg",
       "status": 0,
       "category": [1,2],
-      "star": true
+      "star": "true"
     },{
       "id":22,
       "name": "Макс Покровский",
@@ -199,7 +199,7 @@
       "photo": "https://bezaza.ru/assets/22.jpg",
       "status": 1,
       "category": [1,2],
-     "star": false
+     "star": "false"
     },{
       "id":23,
       "name": "Rimus",
@@ -208,7 +208,7 @@
       "photo": "https://bezaza.ru/assets/23.jpg",
       "status": 1,
       "category": [3,4],
-      "star": false
+      "star": "false"
     },{
       "id":24,
       "name": "Last one",
@@ -217,7 +217,7 @@
       "photo": "https://bezaza.ru/assets/24.jpg",
       "status": 1,
       "category": [1,2],
-      "star": false
+      "star": "false"
   },{
       "id":25,
       "name": "ROijj",
@@ -226,7 +226,7 @@
       "photo": "https://bezaza.ru/assets/25.jpg",
       "status": 1,
       "category": [3],
-	  "star": false
+	  "star": "false"
     },{
     "id":26,
       "name": "AK47",
@@ -235,7 +235,7 @@
       "photo": "https://bezaza.ru/assets/26.jpg",
       "status": 1,
       "category": [4],
-     "star": false
+     "star": "false"
     },{
     "id":27,
       "name": "Trololo",
@@ -244,7 +244,7 @@
       "photo": "https://bezaza.ru/assets/27.jpg",
       "status": 1,
       "category": [3], 
-      "star": false
+      "star": "false"
     },{
     "id":28,
       "name": "God",
@@ -253,7 +253,7 @@
       "photo": "https://bezaza.ru/assets/28.jpg",
       "status": 1,
       "category": [3,4],
-      "star": false
+      "star": "false"
   }
 ],
 "get-video-list": [
