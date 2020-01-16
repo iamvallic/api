@@ -296,33 +296,5 @@
       "category": [3,4],
       "star": 0
   }
-],
-
-  "get-categoty-list": [
-    {
-    "id": 1,
-    "category" : "Музыкант"
-    },{
-    "id": 2,
-    "category" : "Певец"
-    },{
-    "id": 3,
-    "category" : "Звезды Youtube"
-    },{
-    "id": 4,
-    "category" : "Звезды Instagram"
-    },{	
-    "id": 5,	
-    "category" : "Блоггеры"	
-    },{	
-    "id": 6,	
-    "category" : "Актеры"	
-    },{	
-    "id": 7,	
-    "category" : "Звезда телевидения"	
-    },{	
-    "id": 8,	
-    "category" : "Комики"
-    }
-  ]
+]
 }
