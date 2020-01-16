@@ -324,56 +324,5 @@
     "id": 8,	
     "category" : "Комики"
     }
-  ],
-  "get-list-by-category-id": [
-  {
-    "id" : 1, 
-    "author_list":   [
-      24,22,21,19,18,16,15,14,12,10,9,8,5,2
-    ]
-  },{
-    "id" : 2, 
-    "author_list":   [
-      24,22,21,19,18,16,15,14,12,10,9,8,5,4,2
-    ]
-  },{
-    "id" : 3, 
-    "author_list":   [
-      28,27,25,23,20,17,13,11,7,1
-    ]
-  },{
-    "id" : 4, 
-    "author_list":   [
-      28,26,23,20,17,13,11,7,4,1
-    ]
-  }
-  ],
-"get-video-list": [
-    {
-    "id": 1,
-    "client" : "Никита",
-    "date" : "2019-12-23T18:25:43.511Z",
-    "url" : "https://bezaza.ru/assets/no-wm-05tZhp_gX2j.mp4"
-    },{
-    "id": 2,
-    "client" : "Артур",
-    "date" : "2020-01-23T18:25:43.511Z",
-    "url" : "https://bezaza.ru/assets/no-wm-_4TKpFbW5R.mp4"
-    },{
-    "id": 3,
-    "client" : "Анфиса",
-    "date" : "2020-01-06T18:25:43.511Z",
-    "url" : "https://bezaza.ru/assets/no-wm-kNIobg1k-.mp4"
-    },{
-    "id": 4,
-    "client" : "АК47",
-    "date" : "2019-12-12T18:25:43.511Z",
-    "url" : "https://bezaza.ru/assets/no-wm-mcH-IoZVrC.mp4"
-    },{	
-    "id": 5,	
-    "client" : "Иван",
-    "date" : "2020-01-16T18:25:43.511Z",
-    "url" : "https://bezaza.ru/assets/wm-5c4bbdc14146c2011dab3eaa.mp4"	
-    }
   ]
 }
