@@ -297,34 +297,7 @@
       "star": 0
   }
 ],
-"get-video-list": [
-	{
-		"id": 1,
-		"url": "https://bezaza.ru/assets/1.mp4",
-		"thumbnail": "https://bezaza.ru/assets/1_thumbnail.jpg",
-		"date": "20.12.2019",
-		"client": "Иван"
-		
-	},{
-		"id": 2,
-		"url": "https://bezaza.ru/assets/2.mp4",
-		"thumbnail": "https://bezaza.ru/assets/2_thumbnail.jpg",
-		"date": "12.12.2019",
-		"client": "Никита"
-	},{
-		"id": 3,
-		"url": "https://bezaza.ru/assets/3.mp4",
-		"thumbnail": "https://bezaza.ru/assets/3_thumbnail.jpg",
-		"date": "31.12.2019",
-		"client": "Валентин"
-	},{
-		"id": 4,
-		"url": "https://bezaza.ru/assets/4.mp4",
-		"thumbnail": "https://bezaza.ru/assets/4_thumbnail.jpg",
-		"date": "19.11.2019",
-		"client": "Jack"
-	}	
-],    
+
   "get-categoty-list": [
     {
     "id": 1,
