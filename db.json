@@ -1,7 +1,7 @@
 {
   "authors": [
     {
-      "id":1,
+      "id":"1",
       "name": "Никита",
       "proff": "Ютуб стар Петро Плюс",
 	    "aboutme" : "Lorem ipsum dolor sit amet, consectetur er. Pellentesque eget laoreet nisl, at aliquam lorem.",
@@ -13,7 +13,7 @@
       "videoList": [1,2,3,4,5,6,7,8],
       "star": 1
     },{
-      "id":2,
+      "id":"2",
       "name": "Антон",
       "proff": "Солист группы На-На", 
 	    "aboutme" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis volPellentesque eget laoreet nisl, at aliquam lorem.",
@@ -24,7 +24,7 @@
       "videoList": [2],
       "star": 1
     },{
-      "id":3,
+      "id":"3",
       "name": "Иван Ургант",
       "proff": "Актёр театра и кино, тв ведущий", 
 	    "aboutme" : "Lorem ipsum dolor sit amet, consectevida ullamcorper. Pellentesque eget laoreet nisl, at aliquam lorem.",
@@ -35,7 +35,7 @@
       "videoList": [4],
       "star": 1
     },{
-      "id":4,
+      "id":"4",
       "name": "Филип Киркоров",
       "proff": "Певец, Супер Стар", 
 	    "aboutme" : "Lorem ipsum dolor sit amet, consecteorper. Pellentesque eget laoreet nisl, at aliquam lorem.",
@@ -46,7 +46,7 @@
 	    "videoList": [1,2,3],
       "star": 1
     },{
-      "id":5,
+      "id":"5",
       "name": "Дюша Метелкин",
       "proff": "Участник группы USB", 
 	    "aboutme" : "Lorem ipsum ligula at sapien gravida ullamcorper. Pellentesque eget laoreet nisl, at aliquam lorem.",
@@ -57,7 +57,7 @@
 	    "videoList": [1,2],
       "star": 1
     },{
-      "id":6,
+      "id":"6",
       "name": "Шаляпин",
       "proff": "Музыкант, певец", 
 	    "aboutme" : "Lorem ipsum dolor sit amet, consectetur elit. Duis volutpat ligula at sapien gravida ullamcorper. Pellentesque eget laoreet nisl, at aliquam lorem.",
@@ -68,7 +68,7 @@
 	    "videoList": [1],
       "star": 1
     },{
-      "id":7,
+      "id":"7",
       "name": "Антон Youtube",
       "proff": "Ютуб блоггер", 
 	    "aboutme" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis  at sapien gravida ullamcorper. Pellentesque eget laoreet nisl, at aliquam lorem.",
@@ -79,7 +79,7 @@
 	    "videoList": [2],
       "star": 1
     },{
-      "id":8,
+      "id":"8",
       "name": "Игорь",
       "proff": "Просто Игорь", 
 	    "aboutme" : "Lorem ipsum dolor sit amet, adipiscing elit. Duis volutpat ligula at sapien gravida ullamcorper. Pellentesque eget laoreet nisl, at aliquam lorem.",
@@ -90,7 +90,7 @@
 	    "videoList": [3,2,1],
       "star": 1
     },{
-      "id":9,
+      "id":"9",
       "name": "Александр Охуенный певец",
       "proff": "Хайпожор певец", 
 	    "aboutme" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis volutpat ligula at sapien gravida ullamcorper. Pellentesque eget laoreet nisl, at aliquam lorem.",
@@ -101,7 +101,7 @@
 	    "videoList": [4],
       "star": 1
     },{
-      "id":10,
+      "id":"10",
       "name": "Алсу",
       "proff": "Дочка олегарха", 
 	    "aboutme" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -112,7 +112,7 @@
 	    "videoList": [1,2],
       "star": 0
     },{
-      "id":11,
+      "id":"11",
       "name": "Билан",
       "proff": "Топ Сингер", 
 	    "aboutme" : "Lorem ipsum dolor sit amet, eget laoreet nisl, at aliquam lorem.",
@@ -123,7 +123,7 @@
 	    "videoList": [3,4],
       "star": 0
     },{
-      "id":12,
+      "id":"12",
       "name": "Music010101",
       "proff": "Музыкант №99", 
 	    "aboutme" : "Lorem ipsum dolor sit amet, at aliquam lorem.",
@@ -134,7 +134,7 @@
 	    "videoList": [2,3],
       "star": 0
     },{
-      "id":13,
+      "id":"13",
       "name": "На на",
       "proff": "Топчик группа для молодежи", 
 	    "aboutme" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis volutpat ligula at sapien gravida ullamcorper. :) 0_0",
@@ -145,7 +145,7 @@
 	    "videoList": [1,4],
       "star": 0
     },{
-      "id":14,
+      "id":"14",
       "name": "Пертокоменц",
       "proff": "Рекламный бот",
 	    "aboutme" : "Lorem ipsum dolor sit ame, at aliquam lorem.",
@@ -156,7 +156,7 @@
 	    "videoList": [1,2,3,4],
       "star": 0
     },{
-      "id":15,
+      "id":"15",
       "name": "Greta",
       "proff": "Гретя Тумба кудаже без нее", 
 	    "aboutme" : "Lorem  dolor sit amet, consectetur at aliquam lorem.",
@@ -167,7 +167,7 @@
 	    "videoList": [1],
       "star": 0
     },{
-      "id":16,
+      "id":"16",
       "name": "Кипелов",
       "proff": "ЭКС Солист групы Ария", 
 	    "aboutme" : "Lorem ipsum dolor sit amet, llamcorper. Pellentesque eget laoreet nisl, at aliquam lorem.",
@@ -178,7 +178,7 @@
 	    "videoList": [2],
       "star": 0
     },{
-      "id":17,
+      "id":"17",
       "name": "Макс 100500",
       "proff": "Ютуб блоггер", 
 	    "aboutme" : "Lorem ipsum dravida ullamcorper. Pellentesque eget laoreet nisl, at aliquam lorem.",
@@ -189,7 +189,7 @@
 	    "videoList": [3],
       "star": 0
     },{
-      "id":18,
+      "id":"18",
       "name": "Розембаум",
       "proff": "Музкант, певец", 
       "order_price": 25000,
@@ -199,7 +199,7 @@
 	    "videoList": [4],
       "star": 0
     },{
-      "id":19,
+      "id":"19",
       "name": "Юрий Шевчук",
       "proff": "Солист шруппы ДДТ", 
 	    "aboutme" : "Lorem ipsum dida ullamcorper. Pellentesque eget laoreet nisl, at aliquam lorem.",
@@ -210,7 +210,7 @@
 	    "videoList": [1,2],
       "star": 0
     },{
-      "id":20,
+      "id":"20",
       "name": "Lola aloha",
       "proff": "Алоха", 
        "order_price": 500,
@@ -220,7 +220,7 @@
 	    "videoList": [1],
       "star": 0
     },{
-      "id":21,
+      "id":"21",
       "name": "Юрий Хой",
       "proff": "ХОЙ", 
 	    "aboutme" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis volutpat ligula at sapien gravida ullamcorper. Pellentesque eget laoreet nisl, at aliquam lorem.",
@@ -231,7 +231,7 @@
 	    "videoList": [1,2,3,4],
       "star": 1
     },{
-      "id":22,
+      "id":"22",
       "name": "Макс Покровский",
        "proff": "Продюссер, певец, музыкант", 
        "order_price": 4500,
@@ -241,7 +241,7 @@
 	    "videoList": [2],
      "star": 0
     },{
-      "id":23,
+      "id":"23",
       "name": "Rimus",
       "proff": "РИсмуссс", 
       "order_price": 500,
@@ -251,7 +251,7 @@
 	    "videoList": [2,3],
       "star": 0
     },{
-      "id":24,
+      "id":"24",
       "name": "Last one",
       "proff": "Инста музыкант", 
       "order_price": 9500,
@@ -260,7 +260,7 @@
       "category": [1,2],
       "star": 0
   },{
-      "id":25,
+      "id":"25",
       "name": "ROijj",
       "proff": "Звезда Туба", 
       "order_price": 1500,
@@ -269,7 +269,7 @@
       "category": [3],
 	  "star": 0
     },{
-    "id":26,
+    "id":"26",
       "name": "AK47",
       "proff": "Акак иначе", 
       "order_price": 9500,
@@ -278,7 +278,7 @@
       "category": [4],
      "star": 0
     },{
-    "id":27,
+    "id":"27",
       "name": "Trololo",
       "proff": "Мировой мем", 
       "order_price": 6500,
@@ -287,7 +287,7 @@
       "category": [3], 
       "star": 0
     },{
-    "id":28,
+    "id":"lhWRtnT7guT7VkNd7xZfQVfem",
       "name": "God",
       "proff": "Без комментариев", 
       "order_price": 99999,
