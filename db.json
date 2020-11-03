@@ -1,5 +1,5 @@
 {
-	"login": {
+	"login": [{
 		"1": {
 			"name": "Никита",
 			"phone": "+79999999999",
@@ -21,7 +21,7 @@
 			"refreshtoken": "gtgtgtgtgtgtgtgtgtgtgtgtgtgtgtg",
 			"sms": "8088"
 		}
-	},
+	}],
 	"projects": {
 		"1": {
 			"id": "1",
