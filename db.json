@@ -24,34 +24,33 @@
 			"sms": "8088"
 		}
 	],
-	"projects": {
-		"1": {
-			"id": "1",
-			"type": "FBW",
-			"name": "УФ Защита ВБ",
-			"marketplacename": "Wildberries"
-		},
-		"2": {
-			"id": "2",
-			"type": "FBO",
-			"name": "УФ Защита ОЗ",
-			"marketplacename": "Ozon"
-		},
+	"projects": [{
+		"id": "1",
+		"ownerid": "1",
+		"type": "FBW",
+		"name": "УФ Защита ВБ",
+		"marketplacename": "Wildberries"
+	}, {
+		"id": "2",
+		"ownerid": "2",
+		"type": "FBO",
+		"name": "УФ Защита ОЗ",
+		"marketplacename": "Ozon"
+	}, {
 
-		"3": {
-			"id": "3",
-			"type": "FBY",
-			"name": "УФ Защита ЯМ",
-			"marketplacename": "Yandex.Market"
-		},
+		"id": "3",
+		"ownerid": "3",
+		"type": "FBY",
+		"name": "УФ Защита ЯМ",
+		"marketplacename": "Yandex.Market"
+	}, {
 
-		"4": {
-			"id": "4",
-			"type": "FBO",
-			"name": "Игрушки ОЗ",
-			"marketplacename": "Ozon"
-		}
-	},
+		"id": "4",
+		"ownerid": "4",
+		"type": "FBO",
+		"name": "Игрушки ОЗ",
+		"marketplacename": "Ozon"
+	}],
 
 	"stat": {
 		"1": {
