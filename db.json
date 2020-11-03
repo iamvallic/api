@@ -1,27 +1,29 @@
 {
 	"login": [{
-		"1": {
+			"id": "1",
 			"name": "Никита",
 			"phone": "+79999999999",
 			"token": "sdfj83j8j2md209djk92dk29kd92",
 			"refreshtoken": "asdsadasdsdadsadasdasdasdasdasdad",
 			"sms": "9999"
 		},
-		"2": {
+		{
+			"id": "2",
 			"name": "Иван Иванович",
 			"phone": "+70000000000",
 			"token": "plplplplplplpllplplplplplplplplplp",
 			"refreshtoken": "cdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdc",
 			"sms": "0000"
 		},
-		"3": {
+		{
+			"id": "3",
 			"name": "Ozon Number One",
 			"phone": "+79168085805",
 			"token": "grgrgrgrgrgrgrgrgrgrgrgrgrgrgrggrgr",
 			"refreshtoken": "gtgtgtgtgtgtgtgtgtgtgtgtgtgtgtg",
 			"sms": "8088"
 		}
-	}],
+	],
 	"projects": {
 		"1": {
 			"id": "1",
