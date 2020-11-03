@@ -52,9 +52,9 @@
 		"marketplacename": "Ozon"
 	}],
 
-	"stat": {
-		"1": {
-			"today": {
+	"stat": [{
+		"1": [{
+			"today": [{
 				"ordersSum": 1298,
 				"ordersPcs": 10,
 				"salesSum": 9547,
@@ -64,8 +64,8 @@
 				"returnSum": 144,
 				"comissionSum": 2865,
 				"toPaySum": 11448
-			},
-			"yesterday": {
+			}],
+			"yesterday": [{
 				"ordersSum": 15573,
 				"ordersPcs": 138,
 				"salesSum": 48177,
@@ -75,8 +75,8 @@
 				"returnSum": 10136,
 				"comissionSum": 28654,
 				"toPaySum": 114483
-			},
-			"week": {
+			}],
+			"week": [{
 				"ordersSum": 109011,
 				"ordersPcs": 966,
 				"salesSum": 330239,
@@ -86,8 +86,8 @@
 				"returnSum": 10136,
 				"comissionSum": 200578,
 				"toPaySum": 801381
-			},
-			"month": {
+			}],
+			"month": [{
 				"ordersSum": 467190,
 				"ordersPcs": 4140,
 				"salesSum": 1445310,
@@ -97,106 +97,12 @@
 				"returnSum": 43440,
 				"comissionSum": 859620,
 				"toPaySum": 3434490
-			}
-		}
-	},
-	"2": {
-		"today": {
-			"ordersSum": 1298,
-			"ordersPcs": 10,
-			"salesSum": 9547,
-			"salesPcs": 28,
-			"stockSum": 3584983,
-			"stockPcs": 4350,
-			"returnSum": 144,
-			"comissionSum": 2865,
-			"toPaySum": 11448
-		},
-		"yesterday": {
-			"ordersSum": 15573,
-			"ordersPcs": 138,
-			"salesSum": 48177,
-			"salesPcs": 214,
-			"stockSum": 3584983,
-			"stockPcs": 30485,
-			"returnSum": 10136,
-			"comissionSum": 28654,
-			"toPaySum": 114483
-		},
-		"week": {
-			"ordersSum": 109011,
-			"ordersPcs": 966,
-			"salesSum": 330239,
-			"salesPcs": 1498,
-			"stockSum": 25094881,
-			"stockPcs": 4350,
-			"returnSum": 10136,
-			"comissionSum": 200578,
-			"toPaySum": 801381
-		},
-		"month": {
-			"ordersSum": 467190,
-			"ordersPcs": 4140,
-			"salesSum": 1445310,
-			"salesPcs": 6420,
-			"stockSum": 107549490,
-			"stockPcs": 4350,
-			"returnSum": 43440,
-			"comissionSum": 859620,
-			"toPaySum": 3434490
-		}
-	},
-	"3": {
-		"today": {
-			"ordersSum": 1298,
-			"ordersPcs": 10,
-			"salesSum": 9547,
-			"salesPcs": 28,
-			"stockSum": 3584983,
-			"stockPcs": 4350,
-			"returnSum": 144,
-			"comissionSum": 2865,
-			"toPaySum": 11448
-		},
+			}]
+		}],
 
-		"yesterday": {
-			"ordersSum": 15573,
-			"ordersPcs": 138,
-			"salesSum": 48177,
-			"salesPcs": 214,
-			"stockSum": 3584983,
-			"stockPcs": 30485,
-			"returnSum": 10136,
-			"comissionSum": 28654,
-			"toPaySum": 114483
-		},
 
-		"week": {
-			"ordersSum": 109011,
-			"ordersPcs": 966,
-			"salesSum": 330239,
-			"salesPcs": 1498,
-			"stockSum": 25094881,
-			"stockPcs": 4350,
-			"returnSum": 10136,
-			"comissionSum": 200578,
-			"toPaySum": 801381
-		},
-
-		"month": {
-			"ordersSum": 467190,
-			"ordersPcs": 4140,
-			"salesSum": 1445310,
-			"salesPcs": 6420,
-			"stockSum": 107549490,
-			"stockPcs": 4350,
-			"returnSum": 43440,
-			"comissionSum": 859620,
-			"toPaySum": 3434490
-		},
-
-		"4": {
-			"today": {
+		"2": [{
+			"today": [{
 				"ordersSum": 1298,
 				"ordersPcs": 10,
 				"salesSum": 9547,
@@ -206,9 +112,8 @@
 				"returnSum": 144,
 				"comissionSum": 2865,
 				"toPaySum": 11448
-			},
-
-			"yesterday": {
+			}],
+			"yesterday": [{
 				"ordersSum": 15573,
 				"ordersPcs": 138,
 				"salesSum": 48177,
@@ -218,9 +123,8 @@
 				"returnSum": 10136,
 				"comissionSum": 28654,
 				"toPaySum": 114483
-			},
-
-			"week": {
+			}],
+			"week": [{
 				"ordersSum": 109011,
 				"ordersPcs": 966,
 				"salesSum": 330239,
@@ -230,9 +134,8 @@
 				"returnSum": 10136,
 				"comissionSum": 200578,
 				"toPaySum": 801381
-			},
-
-			"month": {
+			}],
+			"month": [{
 				"ordersSum": 467190,
 				"ordersPcs": 4140,
 				"salesSum": 1445310,
@@ -242,9 +145,107 @@
 				"returnSum": 43440,
 				"comissionSum": 859620,
 				"toPaySum": 3434490
+			}]
+		}],
 
-			}
-		}
-	}
+		"3": [{
+			"today": [{
+				"ordersSum": 1298,
+				"ordersPcs": 10,
+				"salesSum": 9547,
+				"salesPcs": 28,
+				"stockSum": 3584983,
+				"stockPcs": 4350,
+				"returnSum": 144,
+				"comissionSum": 2865,
+				"toPaySum": 11448
+			}],
 
+			"yesterday": [{
+				"ordersSum": 15573,
+				"ordersPcs": 138,
+				"salesSum": 48177,
+				"salesPcs": 214,
+				"stockSum": 3584983,
+				"stockPcs": 30485,
+				"returnSum": 10136,
+				"comissionSum": 28654,
+				"toPaySum": 114483
+			}],
+
+			"week": [{
+				"ordersSum": 109011,
+				"ordersPcs": 966,
+				"salesSum": 330239,
+				"salesPcs": 1498,
+				"stockSum": 25094881,
+				"stockPcs": 4350,
+				"returnSum": 10136,
+				"comissionSum": 200578,
+				"toPaySum": 801381
+			}],
+
+			"month": [{
+				"ordersSum": 467190,
+				"ordersPcs": 4140,
+				"salesSum": 1445310,
+				"salesPcs": 6420,
+				"stockSum": 107549490,
+				"stockPcs": 4350,
+				"returnSum": 43440,
+				"comissionSum": 859620,
+				"toPaySum": 3434490
+			}]
+		}],
+
+		"4": [{
+			"today": [{
+				"ordersSum": 1298,
+				"ordersPcs": 10,
+				"salesSum": 9547,
+				"salesPcs": 28,
+				"stockSum": 3584983,
+				"stockPcs": 4350,
+				"returnSum": 144,
+				"comissionSum": 2865,
+				"toPaySum": 11448
+			}],
+
+			"yesterday": [{
+				"ordersSum": 15573,
+				"ordersPcs": 138,
+				"salesSum": 48177,
+				"salesPcs": 214,
+				"stockSum": 3584983,
+				"stockPcs": 30485,
+				"returnSum": 10136,
+				"comissionSum": 28654,
+				"toPaySum": 114483
+			}],
+
+			"week": [{
+				"ordersSum": 109011,
+				"ordersPcs": 966,
+				"salesSum": 330239,
+				"salesPcs": 1498,
+				"stockSum": 25094881,
+				"stockPcs": 4350,
+				"returnSum": 10136,
+				"comissionSum": 200578,
+				"toPaySum": 801381
+			}],
+
+			"month": [{
+				"ordersSum": 467190,
+				"ordersPcs": 4140,
+				"salesSum": 1445310,
+				"salesPcs": 6420,
+				"stockSum": 107549490,
+				"stockPcs": 4350,
+				"returnSum": 43440,
+				"comissionSum": 859620,
+				"toPaySum": 3434490
+			}]
+		}]
+	}]
 }
