@@ -188,53 +188,8 @@
 		"returnSum": 10136,
 		"comissionSum": 200578,
 		"toPaySum": 801381
-	}],
-
-	"month": [{
-		"id": "1",
-		"ordersSum": 467190,
-		"ordersPcs": 4140,
-		"salesSum": 1445310,
-		"salesPcs": 6420,
-		"stockSum": 107549490,
-		"stockPcs": 4350,
-		"returnSum": 43440,
-		"comissionSum": 859620,
-		"toPaySum": 3434490
-	}, {
-		"id": "2",
-		"ordersSum": 467190,
-		"ordersPcs": 4140,
-		"salesSum": 1445310,
-		"salesPcs": 6420,
-		"stockSum": 107549490,
-		"stockPcs": 4350,
-		"returnSum": 43440,
-		"comissionSum": 859620,
-		"toPaySum": 3434490
-	}, {
-		"id": "3",
-		"ordersSum": 467190,
-		"ordersPcs": 4140,
-		"salesSum": 1445310,
-		"salesPcs": 6420,
-		"stockSum": 107549490,
-		"stockPcs": 4350,
-		"returnSum": 43440,
-		"comissionSum": 859620,
-		"toPaySum": 3434490
-	}, {
-		"id": "4",
-		"ordersSum": 467190,
-		"ordersPcs": 4140,
-		"salesSum": 1445310,
-		"salesPcs": 6420,
-		"stockSum": 107549490,
-		"stockPcs": 4350,
-		"returnSum": 43440,
-		"comissionSum": 859620,
-		"toPaySum": 3434490
 	}]
+
 
 
 
