@@ -28,27 +28,27 @@
 		"id": "1",
 		"ownerid": "1",
 		"type": "FBW",
-		"name": "УФ Защита ВБ",
+		"name": "Магазин одежды Frodo",
 		"marketplacename": "Wildberries"
 	}, {
 		"id": "2",
 		"ownerid": "2",
 		"type": "FBO",
-		"name": "УФ Защита ОЗ",
+		"name": "Магазин одежды Frodo",
 		"marketplacename": "Ozon"
 	}, {
 
 		"id": "3",
 		"ownerid": "3",
 		"type": "FBY",
-		"name": "УФ Защита ЯМ",
+		"name": "Магазин одежды Frodo",
 		"marketplacename": "Yandex.Market"
 	}, {
 
 		"id": "4",
 		"ownerid": "4",
 		"type": "FBO",
-		"name": "Игрушки ОЗ",
+		"name": "Магазин одежды Frodo",
 		"marketplacename": "Ozon"
 	}],
 
